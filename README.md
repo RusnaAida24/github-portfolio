@@ -1,4 +1,4 @@
-# Your Name's Portfolio
+# RusnaAida's Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my work and projects. Feel free to explore, and don't hesitate to reach out if you have any questions or collaboration opportunities.
 
