@@ -5,5 +5,4 @@ gem "github-pages", group: :jekyll_plugins
 
 title: [Rusna Aida]
 description: [Welcome to my GitHub portfolio! This repository showcases my work and projects. Feel free to explore, and don’t hesitate to reach out if you have any questions or collaboration opportunities.]
-
-
+logo: /assets/img/logo.png
