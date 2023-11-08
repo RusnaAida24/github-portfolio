@@ -1,7 +1,3 @@
-# RusnaAida's Portfolio
-
-Welcome to my GitHub portfolio! This repository showcases my work and projects. Feel free to explore, and don't hesitate to reach out if you have any questions or collaboration opportunities.
-
 ## About Me
 
 I am a passionate Analyst with a strong interest in data science programming and analytics. I love coding and enjoy learning new things.
