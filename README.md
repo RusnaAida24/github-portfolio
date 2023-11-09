@@ -10,12 +10,12 @@ You can contact me via rusnaa2407@gmail.com or connect with me on [LinkedIn](www
 ### Regression Model: Prediction on Student Performance
 - **Description:** Many factors influence student performance in test. Dataset was taken to predict the score based on the chosen factors. Train test split is used in training and evaluation of regression model.
 - **GitHub Repository:** [[Link](https://github.com/RusnaAida24/edu)]
-- ![Project Image](project-1/image.png)
+- ![Project Image]()
 
 ### Prophet, forecasting time series: Netflix Stock Prediction using Prphet
 - **Description:** Dataset was collected from Yahoo, with the timeframe for about a year. Using Prophet Model, stock price was predicted for the next 30days.
 - **GitHub Repository:** [[Link](https://github.com/RusnaAida24/NFLX-prediction-Prophet/tree/main)]
-- ![Project Image](project-2/image.png)
+- ![Project Image]((main/student_exams.png))
 
 <!-- Add more projects as needed -->
 
